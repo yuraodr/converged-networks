@@ -4,7 +4,7 @@
 Dokumentacja do wypełnienia podczas przedmiotu "Sieci konwergentne".
 Każdy zespół dwu- lub trzyosobowy powinien wypełnić jeden z poniższych działów w spisie treści
 jako osobny [podlinkowany plik](FCoE.md).
-Swoje projekty przysyłać jako propozycje zmian do tego projektu (pull requests).
+Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull requests)](https://help.github.com/articles/about-pull-requests/).
 
 [Dokumentacja Markdown](https://guides.github.com/features/mastering-markdown/)
 
