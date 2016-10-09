@@ -18,7 +18,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ## Systemy RAID
 
 ## Podstawowe protokoły:
-### SCSI
+### [SCSI](scsi/scsi.md)
 ### iSCSI
 ### FC
 ### FCoE 
