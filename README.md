@@ -34,3 +34,10 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### Konfiguracja serwera i klienta iSCSI na platformie Windows Server
 
 ## Rozproszone systemy plików na przykładzie Ceph
+
+## Jakość usług:
+### Model Best Effort
+### Model Integrated Services
+### Protokół RSVP
+### Model Differentiated Services
+### Przykłady DSCP
