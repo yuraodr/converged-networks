@@ -16,6 +16,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### SAN
 
 ## Systemy RAID
+(Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
 ## Podstawowe protokoły:
 ### SCSI
@@ -28,7 +29,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### TRILL
 
 ## Jakość usług:
-### Model Best Effort
+### Model Best Effort (Krzysztof Golonka)
 ### Model Integrated Services
 ### Protokół RSVP
 ### Model Differentiated Services
