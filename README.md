@@ -1,6 +1,6 @@
 # converged-networks
 
-## Opis
+## Opis po zmianach
 Dokumentacja do wypełnienia podczas przedmiotu "Sieci konwergentne".
 Każdy zespół dwu- lub trzyosobowy powinien wypełnić jeden z poniższych działów w spisie treści
 jako osobny [podlinkowany plik](FCoE.md).
