@@ -22,6 +22,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### SCSI
 ### iSCSI
 ### FC
+(Konrad Brandys, Karol Barczyk, Kamil Świerkot)
 ### FCoE 
 
 ## Technologie konwergentnego data-center:
