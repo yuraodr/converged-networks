@@ -14,7 +14,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### DAS
 ### NAS
 ### SAN
-
+[Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
