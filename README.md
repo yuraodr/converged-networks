@@ -12,8 +12,9 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 
 ## Architektura storage w ujęciu ogólnym:
 ### DAS
+(Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### NAS
-(Tomasz Marzec, Kamil Paryż)
+(Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### SAN
 (Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
 ## Systemy RAID
