@@ -14,7 +14,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### DAS
 ### NAS
 ### SAN
-
+(Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
