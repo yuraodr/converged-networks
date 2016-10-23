@@ -22,6 +22,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 
 ## Podstawowe protokoły:
 ### [SCSI](scsi/scsi.md)
+(Daniel Karoń)
 ### iSCSI
 ### FC
 (Konrad Brandys, Karol Barczyk, Kamil Świerkot)
