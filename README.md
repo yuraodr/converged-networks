@@ -35,7 +35,9 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ## Jakość usług:
 ### Model Best Effort (Krzysztof Golonka)
 ### Model Integrated Services
+(Daniel Cegielski, Adrian Krawczyński, Damian Kaczyński)
 ### Protokół RSVP
+(Daniel Cegielski, Adrian Krawczyński, Damian Kaczyński)
 ### Model Differentiated Services
 ### Przykłady DSCP
 
