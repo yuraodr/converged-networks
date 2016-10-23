@@ -1,6 +1,6 @@
 # converged-networks
 
-## Opis
+## Opis po zmianach
 Dokumentacja do wypełnienia podczas przedmiotu "Sieci konwergentne".
 Każdy zespół dwu- lub trzyosobowy powinien wypełnić jeden z poniższych działów w spisie treści
 jako osobny [podlinkowany plik](FCoE.md).
@@ -21,7 +21,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
 ## Podstawowe protokoły:
-### SCSI
+### [SCSI](scsi/scsi.md)
 ### iSCSI
 ### FC
 (Konrad Brandys, Karol Barczyk, Kamil Świerkot)
