@@ -17,6 +17,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### SAN
 (Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
+[Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
