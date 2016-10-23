@@ -58,4 +58,5 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ## Sieci sterowane programowo
 ### Koncepcja SDN
 ### Protokół OpenFlow
+(Damian Niedziela, Krzysztof Czech)
 ### Przełączniki programowalne
