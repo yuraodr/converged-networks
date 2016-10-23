@@ -26,6 +26,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### FC
 (Konrad Brandys, Karol Barczyk, Kamil Świerkot)
 ### FCoE 
+(Michał Repeć, Oleksandr Oliinykov)
 
 ## Technologie konwergentnego data-center:
 ### DCB
