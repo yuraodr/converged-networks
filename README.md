@@ -41,6 +41,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### Protokół RSVP
 (Daniel Cegielski, Adrian Krawczyński, Damian Kaczyński)
 ### Model Differentiated Services
+(Natalia Lasek, )
 ### Przykłady DSCP
 
 ## Przydatne narzędzia:
