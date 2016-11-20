@@ -46,9 +46,15 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### Przykłady DSCP
 
 ## Przydatne narzędzia:
+
 ### Aplikacje do pomiarów wydajności storage na przykładzie Bonnie++
+
 ### Systemy open-source do udostępniania zasobów iSCSI
+
+(Joanna Marszałek, Sławomir Tyliba, Mateusz Błachnio, Jakub Bojanek)
+
 ### Konfiguracja serwera i klienta iSCSI na platformie Linux
+
 ### Konfiguracja serwera i klienta iSCSI na platformie Windows Server
 
 ## Rozproszone systemy plików: 
