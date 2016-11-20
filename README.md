@@ -13,7 +13,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ## Architektura storage w ujęciu ogólnym:
 ### DAS
 ### NAS
-### SAN oraz [SAN-DG](converged-networks/SAN-DG/SAN-DG.md)
+### SAN oraz [SAN-DG](SAN-DG/SAN-DG.md)
 [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
@@ -47,7 +47,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### OCFS
 ### GPFS
 ### System Lustre
-### [System Ceph](converged-networks/CEPH-DG/CEPH-DG.md) 
+### [System Ceph](CEPH-DG/CEPH-DG.md) 
 [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 
 ## Sieci sterowane programowo
