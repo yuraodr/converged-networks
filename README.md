@@ -14,9 +14,13 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### DAS
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### NAS
+<<<<<<< HEAD
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### SAN
 (Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
+=======
+### SAN oraz [SAN-DG](SAN-DG/SAN-DG.md)
+>>>>>>> 5b270516c857269bf974abc55f93e0a1866dfa63
 [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
@@ -62,7 +66,8 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### OCFS
 ### GPFS
 ### System Lustre
-### System Ceph [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
+### [System Ceph](CEPH-DG/CEPH-DG.md) 
+[Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 
 ## Sieci sterowane programowo
 ### Koncepcja SDN
