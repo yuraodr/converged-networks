@@ -69,11 +69,15 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 
 ### Systemy open-source do udostępniania zasobów iSCSI
 
-(Joanna Marszałek, Sławomir Tyliba, Mateusz Błachnio, Jakub Bojanek)
+(Mateusz Błachnio, Sławomir Tyliba)
 
 ### Konfiguracja serwera i klienta iSCSI na platformie Linux
 
+Joanna Marszałek
+
 ### Konfiguracja serwera i klienta iSCSI na platformie Windows Server
+
+Jakub Bojanek
 
 ## Rozproszone systemy plików: 
 ### GFS
