@@ -56,7 +56,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### OCFS
 ### GPFS
 ### System Lustre
-### System Ceph
+### System Ceph [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
 
 ## Sieci sterowane programowo
 ### Koncepcja SDN
