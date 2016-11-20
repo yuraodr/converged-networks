@@ -2,6 +2,19 @@
 
 ## Opis 
 Dokumentacja do wypełnienia podczas przedmiotu "Sieci konwergentne".
+
+## Deadline  wykonania:
+
+### Pierwsza wersja (do komentarzy przez prowadzącego)
+
+7.01.2017
+
+### Wersja końcowa
+
+4.02.2017
+
+### Informacje techniczne
+
 Każdy zespół dwu- lub trzyosobowy powinien wypełnić jeden z poniższych działów w spisie treści
 jako osobny [podlinkowany plik](FCoE.md).
 Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull requests)](https://help.github.com/articles/about-pull-requests/).
@@ -14,14 +27,15 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### DAS
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 ### NAS
-<<<<<<< HEAD
+
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
+
 ### SAN
 (Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
-=======
+
 ### SAN oraz [SAN-DG](SAN-DG/SAN-DG.md)
->>>>>>> 5b270516c857269bf974abc55f93e0a1866dfa63
 [Dariusz Gawron, Mariusz Okularczyk, Krzysztof Czech]
+
 ## Systemy RAID
 (Joanna Kiełtyka, Kacper Barański, Maciej Kajanek)
 
