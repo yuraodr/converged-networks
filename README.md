@@ -60,12 +60,16 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 ### Protokół RSVP
 (Daniel Cegielski, Adrian Krawczyński, Damian Kaczyński)
 ### Model Differentiated Services
-(Natalia Lasek, )
+(Natalia Lasek)
+(Oleksandr Voloshyn, Ivan Kopko)
+
 ### Przykłady DSCP
+(Oleksandr Voloshyn, Ivan Kopko)
 
 ## Przydatne narzędzia:
 
-### Aplikacje do pomiarów wydajności storage na przykładzie Bonnie++
+### Aplikacje do pomiarów wydajności magazynów dyskowych na przykładzie Bonnie++
+(Julia Zelenska)
 
 ### Systemy open-source do udostępniania zasobów iSCSI
 
