@@ -61,3 +61,4 @@ oraz parametry elektryczne. Poniżej przedstawiam szczegółowy podział:
 
 
 
+dasd
