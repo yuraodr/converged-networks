@@ -59,6 +59,3 @@ oraz parametry elektryczne. Poniżej przedstawiam szczegółowy podział:
     * sterowanie różnicowe wysokonapięciowe HVD (High Voltage Differential ) - 5V, długość kabla do 25m
     * sterowanie róznicowe niskonapięciowe LVD (Low Voltage Differential) - 3.3V, długość kabla do 12m
 
-
-
-dasd
