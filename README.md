@@ -30,7 +30,7 @@ Swoje projekty przysyłać jako propozycje zmian do tego projektu [(pull request
 
 (Tomasz Marzec, Kamil Paryż, Janusz Ładecki)
 
-### [SAN](SAN.md)
+### [SAN](SAN-2.md)
 (Mateusz Łysek, Marcin Świerczek, Robert Słuszniak)
 
 ### SAN oraz [SAN-DG](SAN-DG/SAN-DG.md)
